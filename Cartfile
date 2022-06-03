@@ -1,2 +1,2 @@
-github "realm/realm-cocoa" ~> 10.25
+github "realm/realm-swift" ~> 10.27
 github "ReactiveX/RxSwift" ~> 6.1
